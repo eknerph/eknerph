@@ -1,4 +1,10 @@
-## Bem-vindo(a) ao perfil do Ekner Alexandre😁
+# Olá, eu sou Ekner Alexandre 😁
+
+```ruby 
+class Programmer
+
+	def initialize() 
+```
 
  <div>
    <a href="https://github.com/eknerph">
