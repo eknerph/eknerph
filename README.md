@@ -22,7 +22,9 @@ class Programmer
    <!-- <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
     <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>-->       
 </p>
+
 ---
+
 <!--<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
