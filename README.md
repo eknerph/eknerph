@@ -12,14 +12,16 @@ class Programmer
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknerph&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
----
+
+<br>
 
 <p align="left">
     <h3 align="left">Connect with me:</h3>
     <a href="https://www.linkedin.com/in/eknereaa/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+     <a href="https://www.instagram.com/ekner_alexandre/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
    <!-- <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
     <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>-->   
-    <a href="https://www.instagram.com/ekner_alexandre/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
+   
      
 </p>
 
@@ -33,18 +35,20 @@ class Programmer
 </div> -->
  
  <br>
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
+
  
-  ### Redes abaixo!
+ 
+ <!--### Redes abaixo!
  
 <div> 
-  <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/EknerAlmeida#5568" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
+ <a href="https://discord.gg/EknerAlmeida#5568" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eknereaa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eknerph@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%922f2f?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/eknerph/eknerph/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+-->
