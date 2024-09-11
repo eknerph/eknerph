@@ -12,12 +12,25 @@ class Programmer
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eknerph&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
-<div style="display: inline_block"><br>
+---
+
+<p align="left">
+    <h3 align="left">Connect with me:</h3>
+    <a href="https://www.linkedin.com/in/eknereaa/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/linkedin.png?raw=true" alt="marcodotcastro" height="30" width="40" /></a>
+   <!-- <a href="https://desenvolvendo.me" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/chrome.png?raw=true" alt="desenvolvendome" height="30" width="40" target="_blank"/></a>
+    <a href="https://www.youtube.com/c/desenvolvendome" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/youtube-v2.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>-->   
+    <a href="https://www.instagram.com/ekner_alexandre/" target="_blank"><img align="center" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/instagram.png?raw=true" alt="desenvolvendome" height="30" width="40"/></a>
+     
+</p>
+
+---
+
+<!--<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
-</div>
+</div> -->
  
  <br>
  
