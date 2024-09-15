@@ -28,9 +28,9 @@ class Programmer
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
 
-<h3>Open Source Projects</h3>
+<!--<h3>Open Source Projects</h3>
 <table>
-    	<!--<thead align="center">
+    	<thead align="center">
         <tr border: none;>
             <td><b>Id</b></td>
 	    <td><b>Projects</b></td>
@@ -78,8 +78,8 @@ class Programmer
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
         </tr>
-    </tbody> -->
-</table>
+    </tbody> 
+</table> -->
 
 
  <img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />
