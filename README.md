@@ -25,10 +25,10 @@ class Programmer
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
+<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcodotcastro" alt="marcodotcastro" /> </p>
 
 
-<!--<h3>Open Source Projects</h3>
+<h3>Open Source Projects</h3>
 <table>
     	<thead align="center">
         <tr border: none;>
